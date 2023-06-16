@@ -26,4 +26,21 @@ if (horaDeAcrodar > 7) {
 
 }
 
+let sinal = 'yellow'
+if (sinal === 'Green') {
+    console.log("Pode Prosseguir")
+}
+else if (sinal === 'Red') {
+    console.log("Pare")
+}
+
+else if (sinal === 'yellow') {
+    console.log("Atenção")
+}
+else{console.log('nao existe esse sinal')}
+
+
+
+
+
 
