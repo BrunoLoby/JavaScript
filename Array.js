@@ -1,4 +1,4 @@
-// Como criar um array?
+// Como criar um arra?
 
 let arr = ['Bruno',18,1.78,true]
 
